@@ -29,8 +29,6 @@ Trello board, Jupyter notebook, google, TA's advice.
 <a name="links"></a>
 
 ## Links
-Include the links to your repository, slides and trello. Feel free to include any other links associated to your project. 
-
 [Repository](https://github.com/Sciabbala/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
 [Slides](https://slides.com/)  
 [Trello](https://trello.com/b/dg7l1Jj2/tic-tac-toe)  

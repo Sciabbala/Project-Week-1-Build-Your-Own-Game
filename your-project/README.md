@@ -30,5 +30,5 @@ Trello board, Jupyter notebook, google, TA's advice.
 
 ## Links
 [Repository](https://github.com/Sciabbala/Project-Week-1-Build-Your-Own-Game/tree/master/your-project)  
-[Slides](https://slides.com/)  
+[Slides](https://slides.com/emanueledesanctis/tic-tac-toe-the-most-futile-game-ever-made/fullscreen)  
 [Trello](https://trello.com/b/dg7l1Jj2/tic-tac-toe)  

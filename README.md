@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Tic-Tac-Toe
 Emanuele De Sanctis
 
 Data Jun 19, Barcelona, 28/06/2019
@@ -19,7 +19,7 @@ I chose to write a simple program to play Tic-Tac-Toe against the computer.
 <a name="workflow"></a>
 
 ## Workflow
-I created a Trello board to outline the steps I'd need to go through, coded the bulk of the program and fixed bugs and other irregularities right after. I then tested weird inputs and corner cases to check if the program would react correctly.
+I first created a Trello board to outline the steps I'd need to go through. The first iteration was extremely messy given that I was using just a couple of functions to do all the work. I then decided to have smaller functions, each taking care of a small aspect of the game. After that I fixed bugs and other irregularities. I then tested the input validation that I implented with weird inputs (special characters, blank inputs, etc.) and corner cases to check if the program would react correctly.
 
 <a name="organization"></a>
 
